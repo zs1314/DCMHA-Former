@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pyconcorde
+Version: 0.1.0
+Summary: Cython wrappers for the Concorde TSP library
+Home-page: https://github.com/jvkersch/pyconcorde
+Author: Joris Vankerschaver
+Author-email: joris.vankerschaver@gmail.com
+License: BSD
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: BSD License
+License-File: COPYING
+Requires-Dist: cython>=0.22.0
+Requires-Dist: numpy>=1.10.0
